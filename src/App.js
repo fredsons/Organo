@@ -1,5 +1,3 @@
-
-import './App.css';
 import Banner from './Componentes/Banner/Banner';
 
 function App() {
